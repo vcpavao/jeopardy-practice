@@ -1,0 +1,8 @@
+To Do:
+
+Track statistics (e.g. percent correct, which categories need most improvement, etc)
+
+Permit more leninent responses
+(e.g. typing in "Patton" when the answer in the database is "George Patton" is currently determined to be incorrect)
+
+Implement machine learning to organize testing of clues that were responded to incorrectly
