@@ -3,9 +3,8 @@
 ## Summary
 Program that quizzes user with Jeopardy clues that have already
 been parsed into a SQLite3 database (there are other repos that
-perform this), and uses machine learning to track incorrect questions
-and user progress. It has only been tested with Python 3.6.* and
-SQLite3.10*
+perform this), and responds whether a question is correct. It
+has only been tested with Python 3.6.* and SQLite3.10*
 
 ## Example Use
 
